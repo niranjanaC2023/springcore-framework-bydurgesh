@@ -112,6 +112,13 @@ Ex:See the Code(StudentScopeMain.java)
 ->invoke static method,variable,new object and passing value automatically..
 Ex:See the Code(PredefinedMethodVariable.java,StudentScopeMain.java)
 
+***Removing Complete XML for Spring Configuration | @Configuration | @ComponentScan | @Bean Annotation***
+->@Configuration:-Indicates that a class declares one or more @Bean methods andmay be processed by the Spring container 
+to generate bean definitions and service requests for those beans at runtime.
+->@Bean:Indicates that a method return a bean class to be managed by the Spring container.
+ Ex:See the Code(ConfigCompScanBeanMain.java)
+ 
+
   
 
 
